@@ -23,6 +23,7 @@ Treść zgłoszeń zawiera:
 Informacje podane z uwagi na potencjalną przydatność względem niektórych błędów
 - Wersja gry - v0.95e
 - Build Bety - "tutaj-dziala-kampania"
+- Ustawienia graficzne - preset Graphics Quality ULTRA
 - Ryzen 5 3600
 - Radeon RX 6650 XT 8GB
 - 16GB RAM 3200Mhz CL16
