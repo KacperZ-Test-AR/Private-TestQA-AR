@@ -1,4 +1,4 @@
-#TestQA-AR
+# Test QA-AR
 Zadanie rekrutacyjne na QA Tester
 
 W tym repo zgłosiłem bugi które napotkałem podczas testów ad-hoc gry Tainted Grail Conquest: Seeds of Corruption i świetnej zabawy z wszelkim rodzajem bugów.
