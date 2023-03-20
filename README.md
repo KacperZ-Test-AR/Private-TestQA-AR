@@ -1,7 +1,7 @@
 # Private-TestQA-AR
 Zadanie rekrutacyjne na QA Tester - Awaken Realms (Kacper Zapałowski)
 
-W tym repo zgłosiłem bugi które napotkałem podczas testów ad-hoc gry Tainted Grail Conquest: Seeds of Corruption.
+W tym repo zgłosiłem bugi które napotkałem podczas testów ad-hoc gry Tainted Grail Conquest: Seeds of Corruption i świetnej zabawy z wszelkim rodzajem bugów.
 
 Podczas testów, sprawdzone zostały elementy gameplay'u, level designu, mechanik generowania seedów, balansu bitw, logiki, prawidłowego działania umiejętności przeciwników w oparciu o różne umiejętności pasywne i karty, poprawne działanie buffów i debuffów, opisów umiejętności i postaci i wielu innych rzeczy
 
