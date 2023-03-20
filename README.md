@@ -1,5 +1,5 @@
 # Private-TestQA-AR
-Zadanie rekrutacyjne na QA Tester - Awaken Realms (Kacper Zapałowski)
+Zadanie rekrutacyjne na QA Tester
 
 W tym repo zgłosiłem bugi które napotkałem podczas testów ad-hoc gry Tainted Grail Conquest: Seeds of Corruption i świetnej zabawy z wszelkim rodzajem bugów.
 
